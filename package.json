@@ -1,0 +1,21 @@
+{
+  "name": "api-social-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkraiss/API-social-media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkraiss/API-social-media/issues"
+  },
+  "homepage": "https://github.com/kevinkraiss/API-social-media#readme"
+}
