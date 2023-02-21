@@ -13,6 +13,6 @@ router.delete('/:id', thoughtsController.delete)
 
 // add/delete reactions
 router.post('/:thoughtId/reactions', thoughtsController.addReaction)
-router.delete('/:thoughtId/reactions/:reactionId', thoughtsController.delete)
+router.delete('/:thoughtId/reactions/:reactionId', thoughtsController.deleteReaction)
 
 module.exports =router
